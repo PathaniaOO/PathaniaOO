@@ -1,4 +1,6 @@
-# Hi there 👋, I'm [Ayush Pathania]  
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ayush Pathania
+</h1>
 
 🚀 Software Engineer | 💻 Python, Django, React | 🌐 Building scalable web apps  
 
