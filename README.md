@@ -28,7 +28,12 @@
 ---
 
 ## 🚀 Featured Projects  
-- [Expense Tracker](https://github.com/PathaniaOO/Expense-Tracker-django-frontend||https://github.com/PathaniaOO/Expense-Tracker-django-backend) – Full-stack app with JWT auth & dashboard  
+- - Expense Tracker — Full-stack app with JWT auth & dashboard  
+  <a href="https://github.com/PathaniaOO/Expense-Tracker-django-frontend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Frontend</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/PathaniaOO/Expense-Tracker-django-backend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Backend</a>
+
+ 
 - [Blog API](https://github.com/PathaniaOO/blogapp-django) – REST API with Django + PostgreSQL  
   
 
