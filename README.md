@@ -2,6 +2,8 @@
   Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ayush Pathania
 </h1>
 
+
+
 🚀 Software Engineer | 💻 Python, Django, React | 🌐 Building scalable web apps  
 
 ---
@@ -27,13 +29,28 @@
 
 ---
 
-## 🚀 Featured Projects  
-- - Expense Tracker — Full-stack app with JWT auth & dashboard  
+## 🚀 Featured Projects
+
+- Expense Tracker — Full-stack app with JWT auth & dashboard  
   <a href="https://github.com/PathaniaOO/Expense-Tracker-django-frontend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Frontend</a>
   &nbsp;|&nbsp;
   <a href="https://github.com/PathaniaOO/Expense-Tracker-django-backend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Backend</a>
 
- 
-- [Blog API](https://github.com/PathaniaOO/blogapp-django) – REST API with Django + PostgreSQL  
+---
+
+- Blog API — REST API with **Django + PostgreSQL**  
+  <a href="https://github.com/PathaniaOO/blogapp-django"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Backend</a>
+
+---
+
+- Game Leaderboard — Full-stack app with leaderboard system  
+  <a href="https://github.com/PathaniaOO/game-Leaderboard-frontend-backend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/> Frontend</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/PathaniaOO/game-Leaderboard-frontend-backend"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="20"/> Backend</a>
+
+---
+
+
+
   
 
