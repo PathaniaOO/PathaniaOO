@@ -4,7 +4,7 @@
 
 
 
-🚀 Software Engineer | 💻 Python, Django, React | 🌐 Building scalable web apps  
+🚀 Software Engineer | 💻 Python, Django, React | 🌐 Building scalable web apps
 
 ---
 
